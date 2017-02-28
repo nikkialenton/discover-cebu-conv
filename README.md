@@ -2,7 +2,8 @@
 ### Getting the files
 
 Use GitHub to clone the repository locally, or [download the .zip file]
-this is available at discover-cebu.mybluemix.net
+
+###this can be accessible at discover-cebu.mybluemix.net
 
 
 ### Installing and starting the app
