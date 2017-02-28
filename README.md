@@ -69,8 +69,6 @@ this is available at discover-cebu.mybluemix.net
 
 1. Click the menu icon in the upper-right corner of the workspace tile, and then select **View details**.
 
-    ![Screen capture of workspace tile menu](readme_images/workspace_details.png)
-
 1. Click the ![Copy](readme_images/copy_icon.png) icon to copy the workspace ID to the clipboard.
 
 1. On the local system, paste the workspace ID into the WORKSPACE_ID variable in the `.env` file. Save and close the file.
