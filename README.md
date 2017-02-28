@@ -7,7 +7,7 @@ this is available at discover-cebu.mybluemix.net
 
 ### Installing and starting the app
 
-1. Install the demo app package into the local Node.js runtime environment:
+1. Install the app package into the local Node.js runtime environment:
 
     ```bash
     npm install
